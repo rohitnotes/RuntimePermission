@@ -1,5 +1,4 @@
 # RuntimePermission
-==========
 
 | first      | second      | third   | fourth     |
 |------------|-------------|-------------|-------------|
